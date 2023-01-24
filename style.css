@@ -1,0 +1,33 @@
+body {
+
+  background-color: #E4F9F5;
+
+}
+.top-container {
+  background-color: #93c5fd80;
+  position: relative;
+  margin: 10px 10px 10px 10px;
+
+
+}
+
+  .right-container {
+  height: 600px;
+  width: 300px;
+  background-color: #00e6ff;
+  position: absolute;
+  right: 20px;
+  top: 280px;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  color: #0033CC;">
+}
+
+hr {
+border-style: none;
+border-color: grey;
+border-width: 5px;
+width: 100px;
+}
